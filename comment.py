@@ -39,7 +39,7 @@ Status           :           No Rulex""")
 
 
 
-def devi():
+def zidi():
     logo()
     print("[1] Comment Bot")
     print("[2] Shareing Bot")
@@ -156,4 +156,4 @@ def menu():
         
 
 if __name__ == '__main__':
-    Zidi()
+    zidi()
